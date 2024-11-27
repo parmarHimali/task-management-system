@@ -24,3 +24,16 @@ A streamlined Task Management System designed for individual users to efficientl
    ```bash
    git clone https://github.com/parmarHimali/task-management-system.git
    ```
+2. Navigate to the project directory:
+   ```cd task-management-system```
+3. Install the required dependencies:
+   ```npm install```
+4. Run the application:
+   ```npm run dev```
+   
+### How to Use
+1. Register/Login: Create an account or log in with your credentials.
+2. Create Tasks: Add tasks with title, description, due date, and priority.
+3. Manage Tasks: View all tasks, update details, mark as completed, or delete tasks.
+4. Track Priorities: Filter or sort tasks by priority level.
+

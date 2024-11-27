@@ -21,15 +21,25 @@ A streamlined Task Management System designed for individual users to efficientl
 
 ## Installation and Setup
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/parmarHimali/task-management-system.git
    ```
-2. Navigate to the project directory:
-   ```cd task-management-system```
-3. Install the required dependencies:
-   ```npm install```
-4. Run the application:
-   ```npm run dev```
+3. Navigate to the project directory:
+
+   ```base
+   cd task-management-system
+   ```
+4. Install the required dependencies:
+
+   ```base
+   npm install
+   ```
+6. Run the application:
+
+   ```base
+   npm run dev
+   ```
    
 ### How to Use
 1. Register/Login: Create an account or log in with your credentials.
